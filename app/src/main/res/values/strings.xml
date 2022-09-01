@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFood</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_search">Busca</string>
+    <string name="title_requests">Pedidos</string>
+    <string name="title_profile">Perfil</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="restaurants">Restaurante</string>
+    <string name="marketplaces">Mercados</string>
+    <string name="drinks">Bebidas</string>
+
+</resources>
